@@ -7,7 +7,7 @@
 
 
 
-<img src="https://www.pinterest.com/pin/732960908113391449/">
+<img src="https://miro.medium.com/max/1400/1*DOkt0Gz5VooMRwGjGXyQdw.png">
 
 
 **Devlog :** [link](https://www.froyodai.com/post/cci_final-project)

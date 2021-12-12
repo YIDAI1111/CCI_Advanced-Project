@@ -10,6 +10,8 @@
 <img src="https://miro.medium.com/max/1400/1*DOkt0Gz5VooMRwGjGXyQdw.png">
 
 
+**Try :** https://yidai1111.github.io/CCI_Advanced-Project/
+
 **Devlog :** [link](https://www.froyodai.com/post/cci_final-project)
 
 **Video :** [link](https://youtu.be/oN9gU7zLn_c)
